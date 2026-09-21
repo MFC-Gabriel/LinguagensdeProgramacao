@@ -1,2 +1,2 @@
-streamlit
+sqlalchemy>=2.0
 pandas
